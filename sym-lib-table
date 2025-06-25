@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AudioAmp")(type "KiCad")(uri "${KIPRJMOD}/AudioAmp.kicad_sym")(options "")(descr ""))
+)
