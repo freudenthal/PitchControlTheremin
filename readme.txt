@@ -1,0 +1,1 @@
+A simple pitch controlled theremin based on Kara Deana's work; https://phys420.phas.ubc.ca/p420_2021/kfdeane/ .
